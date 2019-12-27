@@ -1,0 +1,1 @@
++fps_max 0 -refresh 144 -freq 144 -novid -nojoy -high +exec autoexec.cfg
